@@ -53370,8 +53370,8 @@ n=A.a([f,e,d,"Extremely dense"],b)
 n=A.rX(A.ah([f,"1",e,"2",d,"3","Extremely dense","4"],a0,a0),!1,!1,n,5,"What is the individual\u2019s BI-RADS breast density?",B.bT,"Assessment of the breast density category recorded by the radiologist as part of clinical practice.")
 m=A.a([c,"Postmenopausal"],b)
 m=A.rX(A.ah(["Postmenopausal","1",c,"0"],a0,a0),!1,!1,m,1,"What is the individual's menopausal status?",B.bT,"Select Pre-/Perimenopausal if the individual has continued menstrual periods or is unsure if periods have stopped. Select Postmenopausal if periods have stopped naturally or surgically.")
-b=A.a(["15.0 - 18.49","18.5 - 24.99","25.0 - 29.99","30.0 - 34.99","35.0 - 90.0"],b)
-this.ax=A.a([a,s,q,p,o,n,m,A.rX(A.ah(["15.0 - 18.49","0","18.5 - 24.99","1","25.0 - 29.99","2","30.0 - 34.99","3","35.0 - 90.0","4"],a0,a0),!0,!1,b,6,"What is the individual's body mass index (BMI)?",B.bT,u.I)],t.Wv)},
+b=A.a(["15.00 - 18.49","18.50 - 24.99","25.00 - 29.99","30.00 - 34.99","35.00 - 90.00"],b)
+this.ax=A.a([a,s,q,p,o,n,m,A.rX(A.ah(["15.00 - 18.49","0","18.50 - 24.99","1","25.00 - 29.99","2","30.00 - 34.99","3","35.00 - 90.00","4"],a0,a0),!0,!1,b,6,"What is the individual's body mass index (BMI)?",B.bT,u.I)],t.Wv)},
 Bz(){var s,r,q
 for(s=this.ax,r=s.length,q=0;q<s.length;s.length===r||(0,A.A)(s),++q)if(s[q].z.$0()==null){this.ay.$1(!1)
 return}this.ay.$1(!0)},
@@ -120828,7 +120828,7 @@ for(q=40;q<=74;++q)n.push(B.d.k(q))
 o=A.a([],o)
 for(q=40;q<=74;++q)o.push(B.d.k(q))
 p=t.N
-return A.ah(["Age",A.aNl(n,o,p,p),"Menopausal Status",A.ah(["1","Postmenopausal","0","Pre-/Perimenopausal"],p,p),"Race/Ethnicity",A.ah(["1","White","2","Black","3","Asian or Pacific Islander","8","Hispanic","6","Other or Multiracial"],p,p),"Family History of Breast Cancer",A.ah(["1","Yes","0","No"],p,p),"Benign Biopsy Result",A.ah(["2","No prior biopsy","3","Biopsy, pathology unknown","4","Non-proliferative disease","5","Proliferative without atypia","6","Proliferative with atypia"],p,p),"Breast Density",A.ah(["1","Almost entirely fatty","2","Scattered fibroglandular densities","3","Heterogeneously dense","4","Extremely dense"],p,p),"Body Mass Index",A.ah(["0","15.0 - 18.49","1","18.5 - 24.99","2","25.0 - 29.99","3","30.0 - 34.99","4","35.0 - 90.0"],p,p)],p,t.GU)})
+return A.ah(["Age",A.aNl(n,o,p,p),"Menopausal Status",A.ah(["1","Postmenopausal","0","Pre-/Perimenopausal"],p,p),"Race/Ethnicity",A.ah(["1","White","2","Black","3","Asian or Pacific Islander","8","Hispanic","6","Other or Multiracial"],p,p),"Family History of Breast Cancer",A.ah(["1","Yes","0","No"],p,p),"Benign Biopsy Result",A.ah(["2","No prior biopsy","3","Biopsy, pathology unknown","4","Non-proliferative disease","5","Proliferative without atypia","6","Proliferative with atypia"],p,p),"Breast Density",A.ah(["1","Almost entirely fatty","2","Scattered fibroglandular densities","3","Heterogeneously dense","4","Extremely dense"],p,p),"Body Mass Index",A.ah(["0","15.00 - 18.49","1","18.50 - 24.99","2","25.00 - 29.99","3","30.00 - 34.99","4","35.00 - 90.00"],p,p)],p,t.GU)})
 r($,"bhd","aWK",()=>{var q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9=null,b0="bullets",b1=t.VO,b2=A.kB(A.eu(A.ac(A.a([A.ac(a9,a9,B.b6,"Overview\n")],b1),a9,a9,a9),a9),a9,a9),b3=A.ac(a9,a9,B.t,"The Breast Cancer Surveillance Consortium (BCSC) previously developed a 5-year invasive breast cancer risk calculator, which is available on the web "),b4=A.fH(a9,a9)
 b4.aS=new A.aFj()
 b4=A.ac(a9,b4,B.bm,"https://tools.bcsc-scc.org/BC5yearRisk/")
