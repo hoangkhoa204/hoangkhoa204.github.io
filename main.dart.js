@@ -53708,7 +53708,7 @@ N(a){var s,r,q,p,o=this,n=null,m=t.w,l=A.av(a,n,m).w,k=A.R(a).eQ
 k.toString
 m=A.av(a,n,m).w.a.a>=400?B.a4:B.af
 s=t.D
-s=A.a([A.kB(A.nw(A.a([A.kB(A.bR("Current version 1.0.",B.b6,n),n,n),o.a2n(a)],s),B.p,m,n,B.cx,B.m,n,n,B.aI),n,n)],s)
+s=A.a([A.kB(A.nw(A.a([A.kB(A.bR("BCSC Advanced Breast Cancer Risk Calculator Version 1.",B.b6,n),n,n),o.a2n(a)],s),B.p,m,n,B.cx,B.m,n,n,B.aI),n,n)],s)
 for(m=o.c,r=m.ax,q=r.length,p=0;p<r.length;r.length===q||(0,A.A)(r),++p)s.push(o.a22(a,m,r[p]))
 s.push(new A.dx(new A.abl(o,a,l.a.a>=1000),n))
 s.push(B.pb)
