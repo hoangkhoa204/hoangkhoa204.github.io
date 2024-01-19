@@ -56791,7 +56791,7 @@ A.afM.prototype={
 $0(){return this.a.a6d(this.b)},
 $S:47}
 A.afI.prototype={
-$0(){return A.cC([A.fl("https://knhnguyen.github.io/#/biopsy")],t.wF)},
+$0(){return A.cC([A.fl("https://hoangkhoa204.github.io/#/biopsy")],t.wF)},
 $S:0}
 A.afL.prototype={
 $0(){var s=this,r=null,q=s.b,p=q.z.$0(),o=A.ak(r,A.an("Please select...",r,r,r,B.u,r,r),B.h,r,r,r,r,r,r,r,B.Wl,r,r,r),n=q.c,m=s.a,l=A.a0(n).h("a7<1,oa<h>>")
